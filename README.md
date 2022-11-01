@@ -1,5 +1,5 @@
 # AWS_Regression
-Dataset with house prices for price prediction using AWS Sagemaker, with Linear Learner and XGBoost
+Data with house prices for price prediction using AWS Sagemaker, with Linear Learner and XGBoost
 
 You can check all the info at:: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
